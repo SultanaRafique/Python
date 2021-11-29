@@ -1,5 +1,5 @@
 def add_numbers(a, b, c):
-    a = a + b +c
+    a = a + b + c
     return a
 
 
